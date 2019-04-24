@@ -1,9 +1,10 @@
 class test{
 
-	//main class	
+	//main class changes
 	public static void main(String[] args)
 	{
 		System.out.println("test 1");
+		System.out.println("test 2");
 	}
 }
 
